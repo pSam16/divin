@@ -344,14 +344,12 @@ color: #fff;
     background: url(../img/footer-bg.jpg);
     background-size: cover;
     background-position: center;
-
     color: #A8ACA7;
 }
-
-.foot-logo{
-    margin-bottom: 30px;
+.foot-logo {
+    margin-bottom: 14px;
+    width: 35%;
 }
-
 .footer01 h4{
     color: #fff;
     font-size: 24px;
