@@ -5,7 +5,7 @@
 
 body{
     background-color: #073073;
-    font-family: 'Montserrat';
+    font-family: "Montserrat", sans-serif" ;
 }
 img{
     max-width: 100%;
@@ -202,7 +202,7 @@ color: #fff;
 }
 .it-txt h1 {
     color: #fff;
-    font-family: "Lato", system-ui;
+    font-family: ""Montserrat", sans-serif"", system-ui;
     font-style: italic;
     text-transform: uppercase;
     font-size: 50pt;
@@ -240,7 +240,7 @@ color: #fff;
 }
 .book-txt h1{
     color: #fff;
-    font-family: "Lato", system-ui;
+    font-family: ""Montserrat", sans-serif"", system-ui;
     font-style: italic;
     text-transform: uppercase;
     font-size: 50pt;
