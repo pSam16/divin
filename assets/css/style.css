@@ -5,7 +5,7 @@
 
 body{
     background-color: #073073;
-    font-family: "Lato", sans-serif;
+    font-family: 'Montserrat';
 }
 img{
     max-width: 100%;
@@ -162,13 +162,13 @@ font-size: 24px;
     text-align: left;
 }
 
-.carousel-caption h1{
+.carousel-caption h1 {
     font-size: 85px;
-    width: 32%;
-    font-family: "Lato", system-ui;
+    width: 45%;
+    font-family: 'Montserrat';
     font-style: italic;
-
 }
+
 .carousel-caption p {
     color: #ffffff;
     font-size: 20px;
